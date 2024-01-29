@@ -1,0 +1,16 @@
+console.log("Welcome to JavaScript!!!");
+console.log("Ganesh Mirda");
+name ="Hanuman";
+name ="Ganuu";
+age = 24;
+x = null;
+y = undefined;
+radius = 34;
+isFollow = true;
+console.log("--------------------");
+//console.log(name);
+//console.log("age " + age);
+//console.log(x);
+//console.log(y);
+//console.log(radius);
+//console.log(isFollow);

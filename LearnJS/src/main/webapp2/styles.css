@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.product {
+  max-width: 400px;
+  margin: 20px auto;
+  background-color: cadetblue;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.rating {
+  color: #ffc107; /* Yellow color for rating */
+  margin-bottom: 10px;
+}
+
+.deal-of-day {
+  background-color: #e74c3c; /* Red color for deal of the day */
+  color: #fff;
+  padding: 5px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.price {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.offer {
+  color: darkgreen; /* Green color for discount offer */
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}

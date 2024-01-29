@@ -1,0 +1,16 @@
+//let a = "2";
+//let b = 2;
+//console.log("a + b = ", a+b);
+//console.log(a*b);
+//console.log("a ** b = ", a ** b);
+//a++;
+//a--;
+//console.log(a);
+//console.log(a === b);
+let a = 10;
+let b = 20;
+let cond1 = b > a;
+let cond2 = b === 20;
+console.log("condition : ", cond1 && cond2);
+console.log(typeof cond1);
+console.log(typeof a);
