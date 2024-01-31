@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+.box{
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+	margin:  5px;
+	text-align: center;
+	background-color: aquamarine;
+}
+
+/* #Heading {
+	color: blue;
+	background-color: yellow;
+}
+.Heading-class{
+	color: blue;
+	background-color: yellow;
+}
+
+body{
+	background-color: pink;
+}
+button {
+	 background-color: forestgreen;
+	 color: white;
+	 border-collapse: separate;
+} */

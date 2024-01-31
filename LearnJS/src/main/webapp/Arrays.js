@@ -15,3 +15,10 @@ for(let i2 of superman){
 	console.log(i2.toUpperCase());
 }
 
+
+
+
+
+
+
+
