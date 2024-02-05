@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+/* div{
+	height: 100px;
+	width: 100px;
+	background-color: dodgerblue;
+	color: white;
+	border: 1px solid black;
+	widows: inherit;
+}
+#btn{
+	color: red;
+	border-bottom-style: double;
+} */
+.dark{
+	background-color: black;
+	color:  white;
+}
+.light{
+	background-color: white;
+	color: black;
+}
